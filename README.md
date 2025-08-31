@@ -11,7 +11,8 @@ A simple website that displays the current weather for any location. Built with 
 - Responsive design for mobile and desktop
 
 ## How to Use
-
+- Pull or download the project files from the repository
+  
 - Open index.html in your browser
 
 - Type a city in the search bar
