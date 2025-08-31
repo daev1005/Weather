@@ -27,3 +27,4 @@ A simple website that displays the current weather for any location. Built with 
 - JavaScript
 
 ## Live Demo
+https://daev1005.github.io/Weather/
